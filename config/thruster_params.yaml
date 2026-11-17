@@ -1,0 +1,7 @@
+rov_thruster_sim_node:
+  ros__parameters:
+    max_rpm: 3500.0
+    time_constant: 0.15
+    noise_stddev: 8.0
+    cmd_timeout: 0.5
+    sim_rate_hz: 50.0
